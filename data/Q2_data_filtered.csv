@@ -1,4 +1,4 @@
-pd_timestamp,relative_timestamp,operation,path,action,operation_file
+pd_timestamp,relative_timestamp,activity,path,case_id,activity_file
 90662,976626,stat64,"""/Users/vakosta/Developer/IdeaProjects/Comnata_nmbr2/build.gradle.kts\0""",2,stat64 | gradle.kt
 90686,976739,stat64,"""/Users/vakosta/Developer/IdeaProjects/Comnata_nmbr2/settings.gradle.kts\0""",2,stat64 | gradle.kt
 117003,2035349,open,"""/Users/vakosta/Developer/IdeaProjects/Comnata_nmbr2/main-service/src/main/kotlin/tv/comnata/mainservice/MainServiceApplication.kt\0""",2,open | MainServiceApplication.kt

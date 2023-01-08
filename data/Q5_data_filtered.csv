@@ -1,4 +1,4 @@
-pd_timestamp,relative_timestamp,operation,path,action,operation_file
+pd_timestamp,relative_timestamp,activity,path,case_id,activity_file
 137085,9241297,open,"""/Users/vakosta/Developer/IdeaProjects/Comnata_nmbr3/main-service/src/main/kotlin/tv/comnata/mainservice/controllers/WebsocketController.kt\0""",3,open | WebsocketController.kt
 137159,9252287,open,"""/Users/vakosta/Developer/IdeaProjects/Comnata_nmbr3/main-service/src/main/kotlin/tv/comnata/mainservice/configs/ResourceServerConfiguration.kt\0""",3,open | ResourceServerConfiguration.kt
 153826,1843427,open,"""/Users/vakosta/Developer/IdeaProjects/Comnata_nmbr3/video-service/src/main/java/tv/comnata/videoservice/controllers/VideoController.kt\0""",3,open | VideoController.kt

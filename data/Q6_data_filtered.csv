@@ -1,4 +1,4 @@
-pd_timestamp,relative_timestamp,operation,path,action,operation_file
+pd_timestamp,relative_timestamp,activity,path,case_id,activity_file
 65052,17021209,stat64,"""/Users/vakosta/Developer/IdeaProjects/Comnata/main-service/src/main/kotlin/tv/comnata/mainservice/services/RoomService.kt\0""",,stat64 | RoomService.kt
 65053,17021220,stat64,"""/Users/vakosta/Developer/IdeaProjects/Comnata/main-service/src/main/kotlin/tv/comnata/mainservice/services/RoomService.kt\0""",,stat64 | RoomService.kt
 153363,133014,lstat,"""/Users/vakosta/Developer/IdeaProjects/Comnata/main-service/src/main/kotlin/tv/comnata/mainservice/controllers/MainController.kt\0""",,lstat | MainController.kt
